@@ -82,7 +82,9 @@ void main() {
     } while (choice != 4);
 
     if (bill != 0) {
+        printf("\n-----------------KONRAD - BY HILTON--------------------\n");
         printf("\n Your total bill is %d", bill);
+        printf("\n------------------------------------------------------\n");
     }
 
     printf("\n Thanks!!!!!!  Visit again.\n");
